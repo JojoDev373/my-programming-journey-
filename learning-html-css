@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-color: linen; /* Page background color */
+            direction: ltr; /* Set text direction to Left-to-Right for the entire page */
+            text-align: left; /* Align text to the left */
+        }
+
+        h1 {
+            color: maroon; /* Color of h1 headings */
+            margin-left: 40px; /* Left margin for headings */
+            margin-right: 0; /* Remove right margin if any */
+            padding-left: 10px; /* Internal spacing on the left */
+            border-left: 5px solid maroon; /* Vertical line on the left of the heading */
+        }
+
+        p {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Font type suitable for readability */
+            line-height: 1.8; /* Line spacing for better readability */
+            margin-left: 40px; /* Left margin for paragraphs */
+            color: #333; /* Text color */
+            max-width: 800px; /* Max width for paragraphs for easier reading */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>What I Learned and Enjoyed in Programming</h1>
+    <p>
+        During my journey in learning programming, I greatly enjoyed exploring fundamental concepts such as **Data Structures** and algorithms. Understanding how to organize data and the efficiency of problem-solving was incredibly fascinating. I also enjoyed applying **Python** to write simple code and create small programs, especially in the field of data analysis, where I found its flexibility and readability very appealing. Learning to build basic user interfaces using **HTML and CSS** was also enjoyable, as it allowed me to see the visual results of my work instantly.
+    </p>
+
+    <h1>Topics I Want to Learn More About</h1>
+    <p>
+        I am very much looking forward to deepening my understanding in **Full-stack Web Development**. I want to learn frameworks like **React.js** for front-end and **Node.js with Express** for back-end, to build interactive and robust web applications. I am also very interested in the field of **Artificial Intelligence (AI)**, specifically Machine Learning, and would like to study how to build and train models to solve real-world problems. I also hope to explore **Databases** more deeply, such as SQL and NoSQL, and how to interact with them efficiently.
+    </p>
+
+    <h1>Challenges I Faced in My Learning Journey</h1>
+    <p>
+        In the beginning of my learning, I faced some difficulties understanding the concept of **Object-Oriented Programming (OOP)**. It took me time to grasp the differences between Classes and Objects, and the principles of inheritance and abstraction. Also, **Debugging** was a major challenge initially, especially when dealing with long and complex code; I used to spend hours searching for a simple error. Similarly, understanding how **Asynchronous Requests** work on the web was confusing at first, but with practice, things gradually became clearer.
+    </p>
+
+</body>
+</html>
